@@ -20,15 +20,15 @@
     starShape: 'straight',
     emptyColor: 'lightgray',
     hoverColor: 'orange',
-    activeColor: '#FF9511',
-    ratedColor: '#FF9511',
+    activeColor: '#FFD200',
+    ratedColor: '#FFD200',
     useGradient: true,
     readOnly: false,
     disableAfterRate: true,
     baseUrl: false,
     starGradient: {
       start: '#FEF7CD',
-      end: '#FF9511'
+      end: '#FFD200'
     },
     strokeWidth: 4,
     strokeColor: 'black',
