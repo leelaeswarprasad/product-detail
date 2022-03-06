@@ -89,7 +89,7 @@ font-family: 'HK Grotesk', sans-serif;
      padding-left: .875em;
      border-radius: 50rem;
 }
-/*======================================== 03. PRE DEFINE CLASS CSS ==========================================*/
+/*========================================  PRE DEFINE CLASS CSS ==========================================*/
  .ptb-100{
      padding: 100px 0;
 }
@@ -175,6 +175,8 @@ font-family: 'HK Grotesk', sans-serif;
      background-color: #e2e8ff;
      color: #6582ed;
 }
+/*========================================  PRE DEFINE CLASS CSS ==========================================*/
+
  .outline-btn, .solid-btn, .primary-solid-btn{
      padding: 10px 25px;
      font-family: 'Open Sans', sans-serif 
@@ -317,6 +319,7 @@ font-family: 'HK Grotesk', sans-serif;
      background: var(--chalk);
      border: 1px solid var(--border);
 }
+
 /*========================================= HEADER CSS ============================================*/
  .main-menu{
      position: inherit;
@@ -577,7 +580,7 @@ font-family: 'HK Grotesk', sans-serif;
     margin: 0 auto;
     display: block;
 }
-/**/
+/*=========================================  HERO SECTION CSS ============================================*/
  .color-code {
      margin-bottom: 10px;
      text-transform: uppercase;
@@ -883,7 +886,7 @@ p.lead {
      vertical-align: middle;
      margin-right: 5px;
 }
-
+/* slider*/
  .slider-arrow:hover .dandik, .slider-arrow:hover .bamdik {
      visibility: visible;
      opacity: 1;
@@ -940,7 +943,7 @@ p.lead {
     }
 }
 
-/**/
+/* slider*/
 .live-rating {
   font-size: 43px;
   margin-left: 10px;
@@ -980,6 +983,7 @@ pre.prettyprint {
     width:18px!important;
     height: 18px !important;
 }
+/* responsive*/
 @media(max-width:575px){
     .color-list ul li {
     width: 31%;
@@ -1001,4 +1005,4 @@ section.hero-section.pt-10.background-img {
 
 
 }
-
+/* responsive*/
